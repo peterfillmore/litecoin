@@ -17,7 +17,6 @@ To Build
 
 ```bash
 ./autogen.sh
-./configure
 make
 make install # optional
 ```
